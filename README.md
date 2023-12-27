@@ -1,2 +1,2 @@
-# foodApplication-adminpanel
-frontend application
+# foodApplication
+This react spring boot food service e-commerce application
